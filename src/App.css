@@ -98,6 +98,10 @@ button:hover {
   justify-content: space-between;
 }
 
+ul {
+  list-style: none;
+}
+
 @media screen and (max-width: 768px) {
   .container {
     margin-top: 20px;
